@@ -1,0 +1,54 @@
+// <button>,<wait>,<hold>
+// OR
+// <wait>
+
+// Get past title screen
+start
+1
+start
+1
+start
+2
+
+// Enter options
+down
+a
+2
+
+// Turn text speed to fast and exit options
+right
+b
+2
+
+// Start new game
+up
+a
+10
+
+// Mash text
+a,.02,.02
+x260
+
+// Enter name
+down
+down
+down
+// T
+a
+right
+right
+up
+// O
+a
+left
+// N
+a
+right
+right
+right
+right
+down
+// Y
+a
+start
+a
